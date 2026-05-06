@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/illustration/[postId]/page": "app/illustration/[postId]/page.js",
+  "/illustration/page": "app/illustration/page.js",
+  "/page": "app/page.js",
+  "/portfolio/[postId]/page": "app/portfolio/[postId]/page.js",
+  "/portfolio/page": "app/portfolio/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/webtoon/[seriesId]/page": "app/webtoon/[seriesId]/page.js",
+  "/webtoon/page": "app/webtoon/page.js"
+}

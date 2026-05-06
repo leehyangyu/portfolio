@@ -1,0 +1,3 @@
+{
+  "/portfolio/[postId]/page": "app/portfolio/[postId]/page.js"
+}

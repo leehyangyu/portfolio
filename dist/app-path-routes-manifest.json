@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/illustration/[postId]/page": "/illustration/[postId]",
+  "/illustration/page": "/illustration",
+  "/page": "/",
+  "/portfolio/[postId]/page": "/portfolio/[postId]",
+  "/portfolio/page": "/portfolio",
+  "/profile/page": "/profile",
+  "/webtoon/[seriesId]/page": "/webtoon/[seriesId]",
+  "/webtoon/page": "/webtoon"
+}

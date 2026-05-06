@@ -1,0 +1,145 @@
+[
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 645855,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\0jgizvy1-bv_8.js",
+      "dist\\static\\chunks\\02.kpl~4u8ooz.js",
+      "dist\\static\\chunks\\0d3shmwh5_nmn.js",
+      "dist\\static\\chunks\\15-yz_ebxz124.js",
+      "dist\\static\\chunks\\0.s99xuj4b5v2.js",
+      "dist\\static\\chunks\\14_of.tohpz1y.js",
+      "dist\\static\\chunks\\0pqt~8bl3ukh4.js",
+      "dist\\static\\chunks\\0vkgb7xyv-nko.js",
+      "dist\\static\\chunks\\062hzijh369a_.js",
+      "dist\\static\\chunks\\turbopack-0wgdncvxsn4eh.js"
+    ]
+  },
+  {
+    "route": "/webtoon/[seriesId]",
+    "firstLoadUncompressedJsBytes": 643531,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\0jgizvy1-bv_8.js",
+      "dist\\static\\chunks\\02.kpl~4u8ooz.js",
+      "dist\\static\\chunks\\0d3shmwh5_nmn.js",
+      "dist\\static\\chunks\\15-yz_ebxz124.js",
+      "dist\\static\\chunks\\00zw8xb-k08_p.js",
+      "dist\\static\\chunks\\14_of.tohpz1y.js",
+      "dist\\static\\chunks\\0pqt~8bl3ukh4.js",
+      "dist\\static\\chunks\\0vkgb7xyv-nko.js",
+      "dist\\static\\chunks\\062hzijh369a_.js",
+      "dist\\static\\chunks\\turbopack-0wgdncvxsn4eh.js"
+    ]
+  },
+  {
+    "route": "/profile",
+    "firstLoadUncompressedJsBytes": 632200,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\0jgizvy1-bv_8.js",
+      "dist\\static\\chunks\\02.kpl~4u8ooz.js",
+      "dist\\static\\chunks\\0d3shmwh5_nmn.js",
+      "dist\\static\\chunks\\15-yz_ebxz124.js",
+      "dist\\static\\chunks\\00m.c7p_a5nsj.js",
+      "dist\\static\\chunks\\14_of.tohpz1y.js",
+      "dist\\static\\chunks\\0pqt~8bl3ukh4.js",
+      "dist\\static\\chunks\\0vkgb7xyv-nko.js",
+      "dist\\static\\chunks\\062hzijh369a_.js",
+      "dist\\static\\chunks\\turbopack-0wgdncvxsn4eh.js"
+    ]
+  },
+  {
+    "route": "/portfolio",
+    "firstLoadUncompressedJsBytes": 630417,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\0jgizvy1-bv_8.js",
+      "dist\\static\\chunks\\02.kpl~4u8ooz.js",
+      "dist\\static\\chunks\\0d3shmwh5_nmn.js",
+      "dist\\static\\chunks\\15-yz_ebxz124.js",
+      "dist\\static\\chunks\\16397_sx6x.7l.js",
+      "dist\\static\\chunks\\14_of.tohpz1y.js",
+      "dist\\static\\chunks\\0pqt~8bl3ukh4.js",
+      "dist\\static\\chunks\\0vkgb7xyv-nko.js",
+      "dist\\static\\chunks\\062hzijh369a_.js",
+      "dist\\static\\chunks\\turbopack-0wgdncvxsn4eh.js"
+    ]
+  },
+  {
+    "route": "/illustration",
+    "firstLoadUncompressedJsBytes": 630414,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\0jgizvy1-bv_8.js",
+      "dist\\static\\chunks\\02.kpl~4u8ooz.js",
+      "dist\\static\\chunks\\0d3shmwh5_nmn.js",
+      "dist\\static\\chunks\\15-yz_ebxz124.js",
+      "dist\\static\\chunks\\0~igp1ofz9qd8.js",
+      "dist\\static\\chunks\\14_of.tohpz1y.js",
+      "dist\\static\\chunks\\0pqt~8bl3ukh4.js",
+      "dist\\static\\chunks\\0vkgb7xyv-nko.js",
+      "dist\\static\\chunks\\062hzijh369a_.js",
+      "dist\\static\\chunks\\turbopack-0wgdncvxsn4eh.js"
+    ]
+  },
+  {
+    "route": "/illustration/[postId]",
+    "firstLoadUncompressedJsBytes": 629916,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\0jgizvy1-bv_8.js",
+      "dist\\static\\chunks\\02.kpl~4u8ooz.js",
+      "dist\\static\\chunks\\0d3shmwh5_nmn.js",
+      "dist\\static\\chunks\\15-yz_ebxz124.js",
+      "dist\\static\\chunks\\0-bt3hifxig_..js",
+      "dist\\static\\chunks\\14_of.tohpz1y.js",
+      "dist\\static\\chunks\\0pqt~8bl3ukh4.js",
+      "dist\\static\\chunks\\0vkgb7xyv-nko.js",
+      "dist\\static\\chunks\\062hzijh369a_.js",
+      "dist\\static\\chunks\\turbopack-0wgdncvxsn4eh.js"
+    ]
+  },
+  {
+    "route": "/webtoon",
+    "firstLoadUncompressedJsBytes": 629274,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\0jgizvy1-bv_8.js",
+      "dist\\static\\chunks\\02.kpl~4u8ooz.js",
+      "dist\\static\\chunks\\0d3shmwh5_nmn.js",
+      "dist\\static\\chunks\\15-yz_ebxz124.js",
+      "dist\\static\\chunks\\0hy3a9roe7oy7.js",
+      "dist\\static\\chunks\\14_of.tohpz1y.js",
+      "dist\\static\\chunks\\0pqt~8bl3ukh4.js",
+      "dist\\static\\chunks\\0vkgb7xyv-nko.js",
+      "dist\\static\\chunks\\062hzijh369a_.js",
+      "dist\\static\\chunks\\turbopack-0wgdncvxsn4eh.js"
+    ]
+  },
+  {
+    "route": "/portfolio/[postId]",
+    "firstLoadUncompressedJsBytes": 627394,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\0jgizvy1-bv_8.js",
+      "dist\\static\\chunks\\02.kpl~4u8ooz.js",
+      "dist\\static\\chunks\\0d3shmwh5_nmn.js",
+      "dist\\static\\chunks\\15-yz_ebxz124.js",
+      "dist\\static\\chunks\\06ty1clbzhi6a.js",
+      "dist\\static\\chunks\\14_of.tohpz1y.js",
+      "dist\\static\\chunks\\0pqt~8bl3ukh4.js",
+      "dist\\static\\chunks\\0vkgb7xyv-nko.js",
+      "dist\\static\\chunks\\062hzijh369a_.js",
+      "dist\\static\\chunks\\turbopack-0wgdncvxsn4eh.js"
+    ]
+  },
+  {
+    "route": "/_not-found",
+    "firstLoadUncompressedJsBytes": 622853,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\0jgizvy1-bv_8.js",
+      "dist\\static\\chunks\\02.kpl~4u8ooz.js",
+      "dist\\static\\chunks\\0d3shmwh5_nmn.js",
+      "dist\\static\\chunks\\15-yz_ebxz124.js",
+      "dist\\static\\chunks\\14_of.tohpz1y.js",
+      "dist\\static\\chunks\\0pqt~8bl3ukh4.js",
+      "dist\\static\\chunks\\0vkgb7xyv-nko.js",
+      "dist\\static\\chunks\\062hzijh369a_.js",
+      "dist\\static\\chunks\\turbopack-0wgdncvxsn4eh.js"
+    ]
+  }
+]

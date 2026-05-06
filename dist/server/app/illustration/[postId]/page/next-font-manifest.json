@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/frontend/app/illustration/[postId]/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

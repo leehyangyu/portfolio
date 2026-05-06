@@ -1,0 +1,43 @@
+{
+  "app": {
+    "[project]/frontend/app/_not-found/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ],
+    "[project]/frontend/app/illustration/[postId]/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ],
+    "[project]/frontend/app/illustration/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ],
+    "[project]/frontend/app/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ],
+    "[project]/frontend/app/portfolio/[postId]/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ],
+    "[project]/frontend/app/portfolio/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ],
+    "[project]/frontend/app/profile/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ],
+    "[project]/frontend/app/webtoon/[seriesId]/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ],
+    "[project]/frontend/app/webtoon/page": [
+      "static/media/7fc9c92292d32c4a-s.p.0iqtlrz7habsr.woff2",
+      "static/media/6beed150a745887e-s.p.0rt_xiixxti87.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
